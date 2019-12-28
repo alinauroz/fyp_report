@@ -1,0 +1,3 @@
+Choice of Hardware
+
+As mentioned earlier, harware security module is a standalone hardware computing device. Encryption algorithms usually use lot of strings which are produced during runtime of the program. Because these strings are produced on runtime so they are stored on RAM. For encryption of a small string, several kilobytes of RAM is used in symmetric encryption. Memory usage is even more greater in asymmetric encryption.
